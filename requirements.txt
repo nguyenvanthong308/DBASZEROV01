@@ -5,3 +5,4 @@ reportlab
 FPDF
 streamlit-aggrid
 openpyxl
+pandas
