@@ -6,3 +6,4 @@ FPDF
 streamlit-aggrid
 openpyxl
 pandas
+BytesIO
