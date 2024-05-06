@@ -6,4 +6,4 @@ FPDF
 streamlit-aggrid
 openpyxl
 pandas
-io
+pytz
