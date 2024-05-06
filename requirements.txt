@@ -9,16 +9,12 @@ fpdf
 streamlit-aggrid
 openpyxl
 streamlit
-ifcopenshell
 matplotlib
 plotly
 pandas
 xlsxwriter
 reportlab
-qrcode
-Pillow
 datetime
-fpdf
 canvas
 pytz
-streamlit-aggrid
+
