@@ -4,3 +4,4 @@ qrcode
 reportlab
 FPDF
 streamlit-aggrid
+openpyxl
