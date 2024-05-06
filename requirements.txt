@@ -9,3 +9,4 @@ pandas
 pytz
 plotly
 matplotlib
+datetime
