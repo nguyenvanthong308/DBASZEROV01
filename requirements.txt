@@ -3,6 +3,4 @@ ifcopenshell
 qrcode
 reportlab
 FPDF
-GridOptionsBuilder
-AgGrid 
-JsCode
+streamlit-aggrid
