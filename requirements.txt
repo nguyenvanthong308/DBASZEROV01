@@ -2,3 +2,4 @@ streamlit
 ifcopenshell
 qrcode
 reportlab
+canvas
