@@ -3,3 +3,6 @@ ifcopenshell
 qrcode
 reportlab
 FPDF
+GridOptionsBuilder
+AgGrid 
+JsCode
