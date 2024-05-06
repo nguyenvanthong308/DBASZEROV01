@@ -10,3 +10,4 @@ pytz
 plotly
 matplotlib
 datetime
+Pillow
